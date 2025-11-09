@@ -14,7 +14,7 @@ This project is submitted as part of the Emotion Cipher Hackathon, focusing on c
 
 ### 🎥 Project Demonstration
 
-**Screen Recording:** [Upload your screen recording here showing the project running]
+**Screen Recording:** https://www.loom.com/share/161df6d41c394ce19768c2fb5964336a
 
 **Demo Video Features:**
 - System initialization and setup
