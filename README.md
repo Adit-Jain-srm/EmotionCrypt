@@ -1,8 +1,22 @@
-# EmotionCrypt 🔐💭
+<div align="center">
 
-An intelligent encryption system that protects text messages while preserving their emotional signature for AI detection.
+# EmotionCrypt
 
-**Made by Adit Jain** 🚀
+**Intelligent Encryption with Emotion Preservation for AI Detection**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-API-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
+[![AES-256](https://img.shields.io/badge/Encryption-AES--256-green?logo=letsencrypt)](https://cryptography.io/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Adit-Jain-srm/EmotionCrypt)](https://github.com/Adit-Jain-srm/EmotionCrypt)
+
+*Encrypt text while preserving its emotional fingerprint — enabling AI systems to detect emotions without decryption.*
+
+</div>
+
+---
+
 
 ## 🏆 Hackathon Submission
 
